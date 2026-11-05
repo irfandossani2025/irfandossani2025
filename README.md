@@ -4,7 +4,7 @@
 
 I help businesses turn ideas and day-to-day challenges into practical digital solutions. Based in Muscat, Oman, my work brings together business understanding, branding and application development.
 
-[Visit my website](https://www.irfandossani.online) · [Explore my projects](https://github.com/irfandossani2025?tab=repositories)
+[Visit my website](https://irfandossani.com) · [Explore my projects](https://github.com/irfandossani2025?tab=repositories)
 
 ---
 
@@ -33,4 +33,4 @@ My repositories include client applications, product experiments and work in pro
 
 ## Let's connect
 
-Have a business process to simplify or a digital product to build? Visit [my website](https://www.irfandossani.online) to learn more and get in touch.
+Have a business process to simplify or a digital product to build? Visit [my website](https://irfandossani.com) to learn more and get in touch.
